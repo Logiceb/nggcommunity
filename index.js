@@ -1,7 +1,7 @@
 const util = require('minecraft-server-util');
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login('ODY0NDkwMTgwMjk0NjA2ODUy.YO2NOA.Wh8tCKvNmS6SUNQ9XRTBkJ3_Z3E');
+client.login('ODY0NDkwMTgwMjk0NjA2ODUy.YO2NOA.lXPI7s_m-hAD3Udg2dzktIsgiio');
 
 // IMPORTANT: You need to run "npm i minecraft-server-util@^3.4.2 discord.js@^12.5.1" (without quotes) in your terminal before executing this script
 
